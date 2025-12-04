@@ -1,0 +1,2 @@
+CAM_Data/*.jsonl filter=lfs diff=lfs merge=lfs -text
+CAM_Data/*.xml filter=lfs diff=lfs merge=lfs -text
